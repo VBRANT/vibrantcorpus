@@ -1,0 +1,87 @@
+	FRINGILLIDÆ.			
+	Cyanospiza rositæ, ♂ …	XXV.	. .	362
+	Cyanospiza rositæ, ♀ …	XXV.	. .	362
+	Haplospiza uniformis …	XXVII.	1	366
+	Amphispiza quinquestriata* …	XXVII.	2	368
+	Zonotrichia vulcani …	XXVI.	2	371
+	Junco alticola …	XXVI.	1	374
+	Spizella pinetorum …	XXVII.	3	378
+	Coturniculus petenicus † …	XXVIII.	2	385
+	Peucæa notosticta …	XXVIII.	1	393
+	Hæmophila rufescens …	XXIX.	2	394
+	Hæmophila superciliosa …	XXX.	1	395
+	Hæmophila ruficauda …	XXX.	2	396
+	Hæmophila humeralis …	XXIX.	1	398
+	Chrysomitris atriceps …	XXXI.	1, 2	429
+	Chrysomitris xanthogastra …	XXXI.	3	430
+	ICTERIDÆ.			
+	Gymnostinops guatemozinus‡ …	XXXII.	. .	439
+	Icterus auratus …	XXXIII.	2	473
+	Icterus sclateri …	XXXIII.	1	476
+	CORVIDÆ.			
+	Cyanolyca § yucatanica …	XXXV.	. .	498
+	Cyanolyca argentigula …	XXXIV.	. .	501
+	Vol. II.			
+	TYRANNIDÆ.			
+	Leptotriccus superciliaris …	XXXVI.	2	18
+	Tyrannulus semiflavus …	XXXVI.	1	32
+	Sublegatus arenarum || …	XXXVI.	3	37
+	Sirystes albogriseus …	XXXVII.	1	47
+	Myiodynastes hemichrysus …	XXXVIII.	1	50
+	Muscivora mexicana, ♂ …	XXXIX.	1	53
+	Muscivora mexicana, ♀ …	XXXIX.	2	53
+	Myiobius capitalis …	XL.	1	59
+	Empidonax albigularis …	XL.	2	70
+	Empidonax atriceps …	XL.	3	79
+	Contopus ochraceus …	XXXVIII.	2	84
+	Myiarchus flammulatus …	XXXVII.	2	96
+	PIPRIDÆ.			
+	Piprites griseiceps …	XLI.	3	107
+	Chiromachæris aurantiaca, ♂ …	XLI.	1	115
+	Chiromachæris aurantiaca, ♀ …	XLI.	2	115
+	COTINGIDÆ.			
+	Pachyrhamphus cinereiventris …	XLIII.	1	127
+	Pachyrhamphus albogriseus, ♂ …	XLIII.	2	128
+	Pachyrhamphus albogriseus, ♂ , ♀ …	XLIII.	3	128
+	Carpodectes nitidus, ♂ …	XLII.	. .	140
+	Carpodectes nitidus,, ♀ …	XLII.	. .	140
+	DENDROCOLAPTIDÆ.			
+	Synallaxis pudica …	XLIV.	2	149
+	Siptornis ¶ erythrops …	XLV.	1	151
+	Siptornis rufigenis …	XLV.	2	152
+	Automolus rufobrunneus ** …	XLVI.	2	154
+	Philydor fuscipennis …	XLVI.	1	161
+	Sclerurus guatemalensis …	XLIV.	1	168
+	Margarornis rubiginosa …	XLVII.	1	170
+	Margarornis brunnescens …	XLVII.	2	170
+	Dendrornis lacrymosa …	XLVIII.	1	182
+	Xiphorhynchus pusillus …	XLVIII.	2	189
+	FORMICARIIDÆ.			
+	Thamnophilus puuctatus …	XLIX.	1	198
+	Thamnophilus bridgesi …	XLIX.	2	199
+	Thamnistes anabatinus, ♂ …	L.	1	205
+	Dysithamnus puncticeps, ♂ …	L.	2	207
+	Dysithamnus puncticeps, ♀ …	L.	3	207
+	Myrmelastes intermedius ††, ♂ …	LI.	2	227
+	Myrmelastes intermedius, ♀ …	LI.	3	227
+	Myrmeciza læmosticta …	LI.	1	230
+	Grallaria princeps …	LII.	. .	241
+	Grallaria perspicillata …	LIII.	2	242
+	Grallaria dives …	LIII.	1	243
+	TROCHILIDÆ.			
+	Hemistephania veraguensis …	LV.	1	253
+	Callipharus nigriventris ‡‡, ♂ …	LVII.	3	270
+	Callipharus nigriventris, ♀ …	LVII.	4	270
+	Hypuroptila melanorrhoa §§, ♂	LV.	2	276
+	Hypuroptila melanorrhoa, ♀ …	LV.	3	276
+	Oreopyra calolæma, ♂ …	LIV.	1	333
+* Zonotrichia quinquestriata on the Plate.
+† Ammodromus petenicus on the Plate.
+‡ Ostinops guatemozinus on the Plate.
+§ Cryanocitta on the Plate.
+|| Elainea arenarum on the Plate.
+¶ Synallaxis on the Plate.
+** Philydor rufobrunneus on the Plate.
+†† Myrmeciza immaculata on the Plate.
+‡‡ Eupheruza nigriventris on the Plate.
+§§ Chalybura melanorrhoa on the Plate.

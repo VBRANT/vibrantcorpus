@@ -1,0 +1,58 @@
+	Oreopyra calolæma, ♀ …	LIV.	2	333
+	Delattria margarethæ, ♂ …	LIV. a.	1	336
+	Delattria margarethæ, ♀ …	LIV. a.	2	336
+	Delattria sybillæ, ♂ …	LIV. a.	3	337
+	Delattria sybillæ, ♀ …	LIV. a.	4	337
+	Delattria hemileuca, ♂ …	LIV.	3	337
+	Delattria hemileuca, ♀ …	LIV.	4	337
+	Selasphorus torridus, ♂ …	LVI.	2	354
+	Selasphorus torridus, ♀ …	LVI.	3	354
+	Selasphorus ardens …	LVI.	1	356
+	Lophornis adorabilis, ♂ …	LVII.	1	365
+	Lophornis adorabilis, ♀ …	LVII.	2	365
+	CAPRIMULGIDÆ.			
+	Caprimulgus salvini, ♂ …	LVIII. b.	. .	387
+	Caprimulgus yucatanicus, ♂ …	LVIII. a.	. .	388
+	Caprimulgus saturates*, ♂ …	LVIII.	. .	388
+	PICIDÆ.			
+	Chloronerpes auricularis, ♂ …	LIX. a.	3	408
+	Chloronerpes godmani, ♂ …	LIX. a.	1	409
+	Chloronerpes godmani, ♀ …	LIX. a.	2	409
+	Chloronerpes callopterus …	LIX.	1	409
+	Chloronerpes simplex …	LIX.	2	410
+	Melanerpes chrysauchen, ♂ …	LX.	1	414
+	Melanerpes chrysauchen, ♀ …	LX.	2	414
+	Vol. III.			
+	ASIONIDÆ.			
+	Syrnium fulvescens …	LXI.	. .	9
+	Scops trichopsis …	LXII.	. .	16
+	FALCONIDÆ.			
+	Morphnus guianensis …	LXIII.	. .	88
+	Micrastur amaurus …	LXV.	. .	109
+	Micrastur mirandollei …	LXIV.	. .	109
+	Falco deirolcucus …	LXVI.	. .	117
+	PERISTERIDÆ.			
+	Leptoptila plumbeiceps …	LXVII.	1	261
+	Leptoptila cassini …	LXVIII.	1	262
+	Leptoptila cerviniventris …	LXVII.	2	263
+	Leptoptila rufinucha …	LXVIII.	2	264
+	Geotrygon lawrencii …	LXIX.	. .	266
+	Geotrygon veraguensis † …	LXX.	. .	267
+	CRACIDÆ.			
+	Chamæpetes unicolor …	LXXI.	. .	278
+	Ortalis wagleri …	LXXII.	. .	279
+	PHASIANIDÆ.			
+	Odontophorus melanotis…	LXXIII.	. .	310
+	Odontophorus leucolæmus …	LXXIV.	. .	311
+	Rhynchortyx ‡ spodiostethus …	LXXVI.	. .	313
+	Rhynchortyx cinctus …	LXXV.	. .	313
+	RALLIDÆ.			
+	Aramides axillaris …	LXXVII.	. .	318
+	TINAMIDÆ.			
+	Nothocerous frantzii § …	LXXVIII.	. .	452
+	Crypturus mexicanus, ♂ …	LXXIX.	. .	457
+	Crypturus mexicanus, ♀ …	LXXIX.	. .	457
+* Antrostomus saturates on the Plate.
+† Geotrygon rufiventris on the Plate.
+‡ Odontophorus on the Plate.
+§ Nothocercus bonapartii on the Plate.
