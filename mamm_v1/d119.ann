@@ -1,0 +1,16 @@
+T1	genus 4 12	CAEIACUS
+T2	subgenus 521 528	Coassus
+T3	genus 912 918	Cervus
+T4	specificepithet 919 927	sartorii
+T5	genus-abbrev 1011 1013	C.
+T6	specificepithet 1014 1021	rufinus
+T7	genus 2045 2054	Bicotyles
+T8	specificepithet 2057 2063	tajacu
+T9	genus 2079 2089	Coelogenys
+T10	specificepithet 2089 2093	paca
+T11	genus 2109 2121	JDasy^procta
+T12	specificepithet 2121 2129	punctata
+T13	genus-abbrev 2732 2734	G.
+T14	specificepithet 2735 2740	nanus
+T15	genus-abbrev 2954 2956	C.
+T16	specificepithet 2957 2962	rufus

@@ -1,0 +1,19 @@
+T1	genus 0 9	MNIOTILTA
+T2	genus 11 23	PROTONOTARIA
+T3	genus 243 252	Mniotilta
+T4	specificepithet 253 258	varia
+T5	genus 673 680	Certhia
+T6	genus 971 983	PROTONOTARIA
+T7	genus 985 997	Protonotaria
+T8	genus 1037 1046	Motacilla
+T9	specificepithet 1047 1053	citrea
+T10	genus 1062 1074	Protonotaria
+T11	genus 1461 1473	Protonotaria
+T12	specificepithet 1475 1481	citrea
+T13	polynomial 1483 1529	Figuierà ventre et tête jaunes de la Louisiane
+T14	genus 1564 1573	Motacilla
+T15	specificepithet 1574 1580	citrea
+T16	genus 1611 1625	Helminthophaga
+T17	specificepithet 1626 1632	citrea
+T18	genus 1664 1676	Protonotaria
+T19	specificepithet 1677 1683	citrea

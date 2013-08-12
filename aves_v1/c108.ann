@@ -1,0 +1,25 @@
+T1	family 4 15	MOTACILLIDÆ
+T2	genus 147 153	Anthus
+T3	specificepithet 154 166	ludovicianus
+T4	genus 168 174	Alauda
+T5	specificepithet 175 186	ludoviciana
+T6	genus 215 221	Anthus
+T7	specificepithet 222 234	ludovicianus
+T8	genus 2183 2189	Anthus
+T9	specificepithet 2190 2202	ludovicianus
+T10	genus 2428 2434	Anthus
+T11	specificepithet 2435 2440	rufus
+T12	polynomial 2442 2473	Petite Alouette de Buenos Ayres
+T13	genus 2508 2514	Alauda
+T14	specificepithet 2515 2519	rufa
+T15	genus 2548 2554	Anthus
+T16	specificepithet 2555 2560	rufus
+T17	genus 2654 2660	Anthus
+T18	subgenus 2662 2672	Notiocorys
+T19	specificepithet 2674 2680	parvus
+T20	genus 2717 2723	Anthus
+T21	specificepithet 2724 2730	parvus
+T22	genus 2762 2768	Anthus
+T23	specificepithet 2769 2773	chii
+T24	genus 2811 2817	Anthus
+T25	specificepithet 2818 2828	peruvianus

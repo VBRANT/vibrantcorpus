@@ -1,0 +1,14 @@
+T1	order 4 10	GLIRES
+T2	genus 15 18	Mus
+T3	specificepithet 19 27	musculus
+T4	genus 29 32	Mus
+T5	specificepithet 33 41	musculus
+T6	genus 895 905	HESPEROMYS
+T7	genus 907 917	Hesperomys
+T8	family 995 1001	Muridæ
+T9	genus 1059 1070	Hesperomys,
+T10	subgenus 1901 1909	Nyctomys
+T11	subgenus 1914 1921	Tylomys
+T12	subgenus 2071 2081	VESPEROMYS
+T13	genus-abbrev 2313 2315	H.
+T14	specificepithet 2316 2323	teguina

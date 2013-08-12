@@ -1,0 +1,17 @@
+T1	genus 0 7	SCIURUS
+T2	infraspecificrank 336 340	var.
+T3	infraspecificepithet 341 353	carolinensis
+T4	infraspecificrank 360 364	var.
+T5	infraspecificepithet 365 377	yucatanensis
+T6	genus-abbrev 504 506	S.
+T7	specificepithet 507 519	carolinensis
+T8	infraspecificrank 685 689	var.
+T9	infraspecificepithet 690 702	yucatanensis
+T10	genus 1958 1968	Tillandsia
+T11	genus 2167 2174	Quercus
+T12	genus 2268 2275	Sciurus
+T13	specificepithet 2276 2287	arizonensis
+T14	genus 2289 2296	Sciurus
+T15	specificepithet 2297 2308	arizonensis
+T16	genus 2432 2439	Sciurus
+T17	specificepithet 2440 2447	colliæi

@@ -1,0 +1,16 @@
+T1	genus 0 12	SPERMOPHILUS
+T2	genus 21 33	Spermophilus
+T3	specificepithet 34 44	spilosomus
+T4	genus 46 58	Spermophilus
+T5	specificepithet 59 68	spilosoma
+T6	genus 1182 1194	Spermophilus
+T7	specificepithet 1195 1204	mexicanus
+T8	genus 1206 1213	Sciurus
+T9	specificepithet 1214 1223	mexicanus
+T10	genus 1273 1280	Citilus
+T11	specificepithet 1281 1290	mexicanus
+T12	genus 1363 1375	Spermophilus
+T13	specificepithet 1376 1385	mexicanus
+T14	genus 1854 1861	Sciurus
+T15	specificepithet 1862 1871	mexicanus
+T16	genus 2085 2091	Tamias

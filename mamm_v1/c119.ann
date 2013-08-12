@@ -1,0 +1,16 @@
+T1	genus 0 8	CARIACUS
+T2	subgenus 492 499	Coassus
+T3	genus 876 882	Cervus
+T4	specificepithet 883 891	sartorii
+T5	genus-abbrev 973 975	C.
+T6	specificepithet 976 983	rufinus
+T7	genus 1986 1995	Dicotyles
+T8	specificepithet 1996 2002	tajacu
+T9	genus 2018 2027	Cœlogenys
+T10	specificepithet 2028 2032	paca
+T11	genus 2047 2057	Dasyprocta
+T12	specificepithet 2058 2066	punctata
+T13	genus-abbrev 2657 2659	C.
+T14	specificepithet 2660 2665	nanus
+T15	genus-abbrev 2874 2876	C.
+T16	specificepithet 2877 2882	rufus

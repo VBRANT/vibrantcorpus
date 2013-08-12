@@ -1,0 +1,26 @@
+T1	genus 4 10	PAEULA
+T2	genus 21 27	Parula
+T3	specificepithet 28 37	insularis
+T4	genus 41 47	Parula
+T5	specificepithet 48 57	insularis
+T6	genus-abbrev 859 861	P.
+T7	specificepithet 862 866;870 875	piti ayumi
+T8	genus-abbrev 880 882	P.
+T9	specificepithet 883 891	inornata
+T10	genus-abbrev 1112 1114	P.
+T11	specificepithet 1115 1123	inornata
+T12	genus-abbrev 1533 1535	P.
+T13	specificepithet 1536 1545	insularis
+T14	genus-abbrev 1721 1723	P.
+T15	specificepithet 1724 1733	nigrilora
+T16	genus-abbrev 1778 1780	P.
+T17	specificepithet 1781 1789	inornata
+T18	genus-abbrev 1810 1812	P.
+T19	specificepithet 1812 1821	pitiayumi
+T20	genus 1981 1987	Parula
+T21	specificepithet 1988 1997	nigrilora
+T22	genus 2001 2007	Parula
+T23	specificepithet 2008 2017	nigrilora
+T24	genus-abbrev 3076 3078	P.
+T25	specificepithet 3079 3088	insularis
+T26	class 3248 3252	Aves

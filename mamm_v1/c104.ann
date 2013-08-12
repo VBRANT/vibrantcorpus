@@ -1,0 +1,17 @@
+T1	order 4 12	UNGULATA
+T2	genus 17 24	Tapirus
+T3	specificepithet 25 29	dowi
+T4	genus 64 71	Tapirus
+T5	specificepithet 72 78	bairdi
+T6	genus 211 224	Elasmognathus
+T7	specificepithet 225 229	dowi
+T8	genus 292 299	Tapirus
+T9	specificepithet 300 304	dowi
+T10	genus-abbrev 808 810	T.
+T11	specificepithet 811 817	bairdi
+T12	genus-abbrev 842 844	T.
+T13	specificepithet 845 849	dowi
+T14	genus 1370 1377	Tapirus
+T15	specificepithet 1378 1384	bairdi
+T16	genus-abbrev 1512 1514	T.
+T17	specificepithet 1515 1519	dowi

@@ -1,0 +1,14 @@
+T1	genus 0 10	HESPEROMYS
+T2	genus 174 184	Hesperomys
+T3	specificepithet 185 194	mexicanus
+T4	genus 196 206	Hesperomys
+T5	specificepithet 207 216	mexicanus
+T6	genus 621 631	Hesperomys
+T7	specificepithet 632 643	melanophrys
+T8	genus 645 655	Hesperomys
+T9	subgenus 657 667	Vesperomys
+T10	specificepithet 669 680	melanophrys
+T11	genus-abbrev 1061 1063	H.
+T12	specificepithet 1064 1073	mexicanus
+T13	specificepithet 1822 1830	leucopus
+T14	subgenus 1992 2002	Vesperomys

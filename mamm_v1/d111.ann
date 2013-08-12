@@ -1,0 +1,17 @@
+T1	genus 4 8	OVIS
+T2	genus 10 16	BISOI^
+T3	genus 27 31	Ovis
+T4	specificepithet 32 39	cervina
+T5	genus 43 47	Ovis
+T6	specificepithet 48 55	montana
+T7	genus 200 204	Ovis
+T8	specificepithet 205 212	cervina
+T9	genus 1424 1429	BISON
+T10	genus 1633 1638	Bison
+T11	specificepithet 1639 1649	americanus
+T12	genus 2419 2423	Ovis
+T13	specificepithet 2424 2431	montana
+T14	genus 2628 2637	Aplocerus
+T15	specificepithet 2638 2645	montana
+T16	genus 2695 2699	Ovis
+T17	specificepithet 2700 2707	montana

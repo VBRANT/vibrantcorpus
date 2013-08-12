@@ -1,0 +1,14 @@
+T1	order 8 14	GLIEES
+T2	genus 21 24	Mus
+T3	specificepithet 25 33	mnsculns
+T4	genus 36 39	Mus
+T5	specificepithet 40 48	musculus
+T6	genus 930 940	HESPEKOMYS
+T7	genus 944 954	Hesperomys
+T8	family 1034 1041	Muridse
+T9	genus 1103 1113	Hesperomys
+T10	subgenus 1961 1969	Nyctomys
+T11	subgenus 1974 1981	Tylomys
+T12	subgenus 2137 2147	Vesperomys
+T13	genus-abbrev 2390 2392	H.
+T14	specificepithet 2393 2400	teguina

@@ -1,0 +1,35 @@
+T1	order 8 14	GLIEES
+T2	order 28 34	GLIRES
+T3	suborder 50 65	SIMPLICIDENTATA
+T4	section 287 299	Sciuromorpha
+T5	family 333 342	Sciuridae
+T6	genus 387 394	Sciurus
+T7	genus 427 433	Tamias
+T8	genus 456 463	Cynomys
+T9	genus 571 583	Sciuropterus
+T10	genus 588 600	Spermophilus
+T11	family 648 661	Haplodontidse
+T12	family 730 740	Castoridse
+T13	section 788 797	Myomorpha
+T14	family 802 809	Muridse
+T15	genus 875 878	Mus
+T16	genus 931 941	Hesperomys
+T17	genus 1106 1115	Ochetodon
+T18	genus 1118 1126	Sigmodon
+T19	genus 1128 1135	Weotoma
+T20	genus 1141 1149	Arvicola
+T21	genus 1201 1209	Brymomys
+T22	genus 1211 1221	Solochilus
+T23	genus 1227 1237	Beithrodon
+T24	family 1269 1272;1275 1281	Geo myidse
+T25	family 1496 1505	Zapodidse
+T26	section 1536 1550	Hystricomorpha
+T27	family 1600 1608;1612 1617	Dasyproc tidsB
+T28	family 1660 1671	Hystricidee
+T29	genus 1709 1719	Synetheres
+T30	family 1885 1897	OctodontidaB
+T31	genus 1922 1933	Myo]3otamus
+T32	family 1943 1956	Chinchillidae
+T33	family 1959 1969	Dinomyidse
+T34	family 1975 1983	Caviidee
+T35	order 2371 2377	Glires
