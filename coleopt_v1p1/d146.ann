@@ -1,0 +1,17 @@
+T1	tribe 40 49	AJOEPHAGA
+T2	genus 59 70	Pericompsus
+T3	specificepithet 71 77	longul
+T4	genus 98 109	Pericompsus
+T5	specificepithet 110 118	longulus
+T6	genus-abbrev 878 880	P.
+T7	specificepithet 881 892	ephippiatus
+T8	genus 986 997	Pericompsus
+T9	specificepithet 998 1007	sticticus
+T10	genus 1634 1644	XYSTOSOMUS
+T11	genus 1648 1658	Xystosomus
+T12	genus 1830 1840	Xystosomus
+T13	specificepithet 1841 1850	sublsevis
+T14	genus 2446 2456	Xystosomus
+T15	specificepithet 2457 2468	sulcicostis
+T16	genus-abbrev 2471 2473	X.
+T17	specificepithet 2474 2482	sullcevi

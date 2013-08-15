@@ -1,0 +1,17 @@
+T1	tribe 4 12	ADEPHAGA
+T2	genus 17 28	Pericompsus
+T3	specificepithet 29 37	longulus
+T4	genus 58 69	Pericompsus
+T5	specificepithet 70 78	longulus
+T6	genus-abbrev 804 806	P.
+T7	specificepithet 807 818	ephippiatus
+T8	genus 916 927	Pericompsus
+T9	specificepithet 928 937	sticticus
+T10	genus 1534 1544	XYSTOSOMUS
+T11	genus 1546 1556	Xystosomus
+T12	genus 1744 1754	Xystosomus
+T13	specificepithet 1755 1763	sublævis
+T14	genus 2333 2343	Xystosomus
+T15	specificepithet 2344 2355	sulcicostis
+T16	genus-abbrev 2357 2359	X.
+T17	specificepithet 2360 2367	sublævi
