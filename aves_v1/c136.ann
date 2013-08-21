@@ -4,7 +4,7 @@ T3	specificepithet 30 36	decora
 T4	genus 56 64	Dendrœca
 T5	specificepithet 65 71	graciæ
 T6	infraspecificrank 73 77	var.
-T7	specificepithet 78 84	decora
+T7	infraspecificepithet 78 84	decora
 T8	genus 193 201	Dendrœca
 T9	specificepithet 202 208	graciæ
 T10	genus 280 288	Dendrœca
