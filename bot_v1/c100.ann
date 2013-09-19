@@ -1,0 +1,36 @@
+T1	order 4 12	MALVACEÆ
+T2	genus 17 27	Malvastrum
+T3	subgenus 29 34	Malva
+T4	specificepithet 36 42	roseum
+T5	genus 121 131	Malvastrum
+T6	specificepithet 132 142	ribifolium
+T7	genus 151 156	Malva
+T8	specificepithet 157 166	ribifolia
+T9	genus 329 339	Malvastrum
+T10	specificepithet 340 348	spicatum
+T11	genus 399 404	Malva
+T12	specificepithet 405 412	spicata
+T13	infraspecificrank 420 424	Var.
+T14	infraspecificepithet 425 433	α. ovata
+T15	infraspecificrank 465 469	Var.
+T16	infraspecificepithet 470 480	β. spicata
+T17	genus 700 710	Malvastrum
+T18	specificepithet 711 723	subtriflorum
+T19	genus 732 737	Malva
+T20	specificepithet 738 749	subtriflora
+T21	genus 848 858	Malvastrum
+T22	specificepithet 859 867	thurberi
+T23	genus 1034 1044	Malvastrum
+T24	specificepithet 1045 1058	tricuspidatum
+T25	genus 1091 1096	Malva
+T26	specificepithet 1097 1109	tricuspidata
+T27	genus 1116 1126	Malvastrum
+T28	specificepithet 1127 1140	carpinifolium
+T29	genus 1446 1456	Malvastrum
+T30	specificepithet 1457 1467	vitifolium
+T31	genus 1476 1481	Malva
+T32	specificepithet 1482 1491	vitifolia
+T33	genus 1512 1517	Malva
+T34	specificepithet 1518 1524	lactea
+T35	genus 1850 1860	Malvastrum
+T36	genus 1904 1914	Malvastrum

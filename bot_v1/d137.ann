@@ -1,0 +1,34 @@
+T1	order 1 10	TILIACEJE
+T2	genus 21 28	Belotia
+T3	specificepithet 29 38	galeottii
+T4	genus 207 214	Belotia
+T5	specificepithet 215 223	insignis
+T6	genus 294 301	Belotia
+T7	genus-abbrev 386 388	B.
+T8	specificepithet 389 401	grewicefolia
+T9	genus-abbrev 427 429	B.
+T10	specificepithet 430 439	galeottii
+T11	genus 472 482	TEIUMFETTA
+T12	genus 486 496	Triumfetta
+T13	genus 784 794	Triumfetta
+T14	specificepithet 795 806	althseoides
+T15	genus 984 994	Triumfetta
+T16	specificepithet 995 1005	botteriana
+T17	genus 1109 1119	Triumfetta
+T18	specificepithet 1120 1130	bogotensis
+T19	genus 1156 1166	Triumfetta
+T20	specificepithet 1167 1173	pilosa
+T21	infraspecificrank 1186 1190	Var.
+T22	infraspecificepithet 1191 1201	a. genuina
+T23	infraspecificrank 1277 1281	Var.
+T24	infraspecificepithet 1282 1297	j3. grandiflora
+T25	genus 1349 1359	Triumfetta
+T26	specificepithet 1360 1369	dumetorum
+T27	genus 1501 1511	Triumfetta
+T28	specificepithet 1512 1524	brachypetala
+T29	genus 1626 1636	Triumfetta
+T30	specificepithet 1637 1648	galeottiana
+T31	genus 1838 1848	Triumfetta
+T32	specificepithet 1849 1861	heterophylla
+T33	genus 1974 1984	Triumfetta
+T34	specificepithet 1985 1992	hispida

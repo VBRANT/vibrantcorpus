@@ -1,0 +1,34 @@
+T1	order 5 14	MALVACEAE
+T2	genus 21 32	Sphseralcea
+T3	specificepithet 33 39	incana
+T4	infraspecificrank 90 94	Var.
+T5	infraspecificepithet 95 104	a. typica
+T6	infraspecificrank 151 155	Var.
+T7	infraspecificepithet 156 168	/3. dissecta
+T8	infraspecificrank 214 218	Var.
+T9	infraspecificepithet 219 232	y. obongifoKa
+T10	genus 283 294	Sphaeralcea
+T11	specificepithet 295 301	nutans
+T12	genus 361 372	Sphaeralcea
+T13	specificepithet 373 382	umbellata
+T14	genus 414 425	Sphaeralcea
+T15	specificepithet 426 435	galeottii
+T16	genus 446 451	Malva
+T17	specificepithet 452 457	rosea
+T18	genus 799 810	Sphaeralcea
+T19	specificepithet 811 820	vitifolia
+T20	genus 858 867	Meliphlea
+T21	specificepithet 868 877	vitifolia
+T22	genus 932 943	Sphaeralcea
+T23	specificepithet 944 952	Wrightii
+T24	genus 986 997	Splicer oma
+T25	specificepithet 998 1006	wrightii
+T26	genus 1127 1138	Sphaeralcea
+T27	genus 1206 1213	MODIOLA
+T28	genus 1216 1223	Modiola
+T29	genus 1438 1445	Modiola
+T30	specificepithet 1446 1457	caroliniana
+T31	genus 1491 1498	Modiola
+T32	specificepithet 1499 1508	multifida
+T33	genus 1593 1598	Malva
+T34	specificepithet 1599 1610	caroliniana

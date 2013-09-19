@@ -1,0 +1,39 @@
+T1	order 1 10	MALVACEAE
+T2	genus 22 29	Pavonia
+T3	specificepithet 30 41	racemiflora
+T4	genus 125 132	Pavonia
+T5	specificepithet 133 138	rosea
+T6	genus 361 368	Pavonia
+T7	specificepithet 369 375	SCabra
+T8	genus 451 458	Pavonia
+T9	specificepithet 459 471	sessiliflora
+T10	genus 512 519	Pavonia
+T11	specificepithet 520 529	bracteosa
+T12	genus 537 545	Malachra
+T13	specificepithet 546 551	ovata
+T14	genus 670 677	Pavonia
+T15	specificepithet 678 686	spinifex
+T16	genus 717 724	Pavonia
+T17	specificepithet 725 733	communis
+T18	infraspecificrank 963 967	Var.
+T19	infraspecificepithet 968 980	a. OValifoHa
+T20	infraspecificrank 1022 1026	Var.
+T21	infraspecificepithet 1027 1038	3. aristata
+T22	infraspecificrank 1080 1084	Var.
+T23	infraspecificepithet 1085 1100	y. Oblongifolia
+T24	infraspecificrank 1139 1143	Var.
+T25	infraspecificepithet 1144 1158	8. grandiflora
+T26	genus 1296 1303	Pavonia
+T27	specificepithet 1304 1312	typhalea
+T28	infraspecificrank 1354 1358	Var.
+T29	infraspecificepithet 1359 1369	«. genuina
+T30	infraspecificrank 1407 1411	Var.
+T31	infraspecificepithet 1412 1425	|3. nemoralis
+T32	genus 1574 1581	Pavonia
+T33	specificepithet 1582 1594	Urticsefolia
+T34	genus 1644 1651	Pavonia
+T35	specificepithet 1652 1660	velutina
+T36	genus 1700 1707	Lopimia
+T37	specificepithet 1708 1720	malacophylla
+T38	genus 1757 1764	Pavonia
+T39	specificepithet 1765 1777	malacophylla

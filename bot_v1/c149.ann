@@ -1,0 +1,33 @@
+T1	order 0 12	MALPIGHIACEÆ
+T2	genus 21 30	Galphimia
+T3	specificepithet 31 41	glandulosa
+T4	infraspecificrank 71 75	Var.
+T5	infraspecificepithet 76 89	α. ovalifolia
+T6	infraspecificrank 209 213	Var.
+T7	infraspecificepithet 214 229	β. oblongifolia
+T8	genus 313 322	Galphimia
+T9	specificepithet 323 331	gracilis
+T10	genus 365 374	Galphimia
+T11	specificepithet 375 381	glauca
+T12	genus 411 420	Galphimia
+T13	specificepithet 421 432	grandiflora
+T14	genus 510 519	Galphimia
+T15	specificepithet 520 527	hirsuta
+T16	genus 642 651	Galphimia
+T17	specificepithet 652 664	humboldtiana
+T18	genus 698 707	Galphimia
+T19	specificepithet 708 718	glandulosa
+T20	genus 900 909	Galphimia
+T21	specificepithet 910 919	latifolia
+T22	genus 1016 1025	Galphimia
+T23	specificepithet 1026 1035	linifolia
+T24	genus 1076 1085	Galphimia
+T25	specificepithet 1086 1098	angustifolia
+T26	genus 1251 1260	Galphimia
+T27	specificepithet 1261 1272	multicaulis
+T28	genus 1385 1394	Galphimia
+T29	specificepithet 1395 1405	paniculata
+T30	genus 1483 1495	ECHINOPTERYS
+T31	genus 1497 1509	Echinopterys
+T32	genus 1650 1662	Echinopterys
+T33	specificepithet 1663 1670	lappula
